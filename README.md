@@ -1,7 +1,7 @@
-# 💫 About Me:
-Computer Science teacher and full-stack developer, blending teaching with hands-on code<br>
-Applying Clean Architecture across projects with NestJS, React, Flutter/Dart, and Python<br>
-Building AproveVest, an educational platform with gamification<br>
-Exploring multi-provider LLMs and taking my first steps into Qiskit/quantum computing<br>
-Daily Linux user (currently on Fedora), always fine-tuning the build setup<br>
-I like understanding the "why" behind a technical decision before writing the code<br>
+# Sobre ele:
+Gamer que programa para deixar sua vida mais fácil.<br>
+Programa usando claudio, html, css, php e as vezes ele muda de gênero e usa python<br>
+Construiu JcL Cliker um auto cliker multiplataforma para linux<br>
+Sua distro linux preferida é o POP_!OS e que o FEDORA se exploda<br>
+Seu animal favorito são Galinhas e Cachorros. Meu nick em qualquer lugar é: br_jo3 <br>
+O jogo que ele mais jogou nos últimos tempos foi Project Zomboid<br>
