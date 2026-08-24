@@ -58,6 +58,7 @@
   <a href="https://github.com/jotaomh/AutoClicker-Linux">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jotaomh&repo=AutoClicker-Linux&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="AutoClicker-Linux"/>
   </a>
+  <br>
   <a href="https://github.com/jotaomh/VAI_CORINTHIANS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jotaomh&repo=VAI_CORINTHIANS&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="VAI_CORINTHIANS"/>
   </a>
