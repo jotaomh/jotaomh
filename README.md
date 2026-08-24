@@ -31,8 +31,8 @@
 ## 🌐 Redes
 
 <p align="left">
-  <a href="https://github.com/JotinhaGamer22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JotinhaGamer22-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  <a href="https://github.com/jotaomh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-JotaoMh-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
   </a>
 </p>
 
