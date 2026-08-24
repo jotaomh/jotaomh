@@ -98,9 +98,7 @@
 
 ## 🏆 Troféus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jotaomh&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Trophies"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jotaomh&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank=-Followers,-Issues&row=1" alt="Trophies"/> </p>
 
 ---
 
