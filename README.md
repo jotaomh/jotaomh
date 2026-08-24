@@ -92,7 +92,6 @@
   <img src="https://raw.githubusercontent.com/jotaomh/jotaomh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> 💡 Essa cobrinha come seus quadradinhos de contribuição animada — precisa de uma Action pra gerar (explico como configurar no final).
 
 ---
 
