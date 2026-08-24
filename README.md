@@ -23,8 +23,8 @@
 ## 🌐 Redes
 
 <p align="left">
-  <a href="https://github.com/JotinhaGamer22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JotinhaGamer22-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1e2327" alt="GitHub"/>
+  <a href="https://github.com/jotaomh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-JotaoMh-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1e2327" alt="GitHub"/>
   </a>
 </p>
 
